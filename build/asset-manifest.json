@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/FRONT-END-PROJECT/static/css/main.31f2f625.css",
+    "main.js": "/FRONT-END-PROJECT/static/js/main.b1864d83.js",
+    "static/media/plant-image.jpg": "/FRONT-END-PROJECT/static/media/plant-image.7334617e72b11857777c.jpg",
+    "index.html": "/FRONT-END-PROJECT/index.html",
+    "main.31f2f625.css.map": "/FRONT-END-PROJECT/static/css/main.31f2f625.css.map",
+    "main.b1864d83.js.map": "/FRONT-END-PROJECT/static/js/main.b1864d83.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31f2f625.css",
+    "static/js/main.b1864d83.js"
+  ]
+}
