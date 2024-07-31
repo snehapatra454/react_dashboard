@@ -1,18 +1,18 @@
 import React from 'react';
 //import DescriptionPage from './components/description';
 //import Login from './components/Loginpage';
-//import HomePage from './components/homepage';
+import HomePage from './components/homepage';
 //import ProfilePage from './components/ProfilePage';
 //import ContactPage from './components/ContactPage';
-import Admin from './components/admin_description';
+//import Admin from './components/admin_description';
 function App() {
   return (
     /*<div className="App">
       //<DescriptionPage />
     </div>*/
-    /*<div className="App">
+    <div className="App">
       <HomePage />
-    </div>*/
+    </div>
     /*<div className="App">
       <Login />
     </div>*/
@@ -22,9 +22,9 @@ function App() {
     /*<div className="App">
       //<ContactPage />
     </div>*/
-    <div className="App">
+    /*<div className="App">
       //<Admin />
-    </div>
+    </div>*/
   );
 }
 
