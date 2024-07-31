@@ -11,11 +11,11 @@ import ReactDOM from "react-dom";
 //import App from "./components/ContactPage";
 import App from "./components/admin_description";
 import { BrowserRouter } from "react-router-dom";
-import ContextComponent from "./components/RouteComponent";
+//import ContextComponent from "./components/RouteComponent";
 import reportWebVitals from "./reportWebVitals";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
-root.render(
+/*root.render(
   <React.StrictMode>
     <BrowserRouter basename={window.location.pathname || ''}>
       <ContextComponent />
